@@ -1,0 +1,1 @@
+<% response.sendRedirect("/[project-name]/hello.do"); %>

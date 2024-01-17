@@ -1,0 +1,7 @@
+TODO MATIERE FRAMEWORK
+
+- Mettre a jour DispatchSwan ao anaty template Controller
+- Asiana package le controller
+- Entree user ao am .bat ny nom de package modele sy controller
+- Dynamisation actions form cree Facade
+- Update/ Delete ao am Facade
